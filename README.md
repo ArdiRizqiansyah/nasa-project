@@ -26,5 +26,3 @@ npm run Deploy
 ```bash
 npm run test
 ```
-
-```
