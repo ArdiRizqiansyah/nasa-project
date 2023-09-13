@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2db4deee.js",
+    "index.html": "/index.html",
+    "main.2db4deee.js.map": "/static/js/main.2db4deee.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2db4deee.js"
+  ]
+}
