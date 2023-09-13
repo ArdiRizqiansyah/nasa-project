@@ -19,7 +19,7 @@ npm run watch
 ## Deploy App
 
 ```bash
-npm run Deploy
+npm run deploy
 ```
 
 ## Test App
